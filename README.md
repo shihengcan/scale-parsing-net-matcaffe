@@ -1,4 +1,6 @@
 # Scale Parsing Net
+(The code will be published soon.)
+
 The code for the following paper:
 * Hengcan Shi, Hongliang Li, Qingbo Wu, Fanman Meng, and King Ngi Ngan, “Boosting scene parsing performance via reliable scale prediction,” 26th ACM international conference on Multimedia (**ACM MM**). Seoul, Korea, October 22 - 26, 2018. (**Oral**) ([PDF](https://dl.acm.org/citation.cfm?id=3240657))
 
